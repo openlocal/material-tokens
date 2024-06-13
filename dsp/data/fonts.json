@@ -6,48 +6,48 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "md.sys.typescale.label-small",
-      "name": "md.sys.typescale.label-small",
+      "id": "cbar.sys.typescale.label-small",
+      "name": "cbar.sys.typescale.label-small",
       "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated_by": "Community BuildAR",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
       "tokens": [
         {
-          "id": "md.sys.typescale.label-small",
+          "id": "cbar.sys.typescale.label-small",
           "type": "custom",
           "value": "",
           "key": "label-small"
         },
         {
-          "id": "md.sys.typescale.label-small.line-height",
+          "id": "cbar.sys.typescale.label-small.line-height",
           "type": "custom",
           "value": "",
           "key": "line-height"
         },
         {
-          "id": "md.sys.typescale.label-small.tracking",
+          "id": "cbar.sys.typescale.label-small.tracking",
           "type": "custom",
           "value": "",
           "key": "tracking"
         },
         {
-          "id": "md.sys.typescale.label-small.size",
+          "id": "cbar.sys.typescale.label-small.size",
           "type": "custom",
           "value": "",
           "key": "size"
         },
         {
-          "id": "md.sys.typescale.label-small.weight",
+          "id": "cbar.sys.typescale.label-small.weight",
           "type": "alias",
-          "value": "{md.ref.typeface.weight-medium}",
+          "value": "{cbar.ref.typeface.weight-medium}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.label-small.font",
+          "id": "cbar.sys.typescale.label-small.font",
           "type": "alias",
-          "value": "{md.ref.typeface.plain}",
+          "value": "{cbar.ref.typeface.plain}",
           "key": "family"
         }
       ]
@@ -55,54 +55,54 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "md.sys.typescale.label-medium",
-      "name": "md.sys.typescale.label-medium",
+      "id": "cbar.sys.typescale.label-medium",
+      "name": "cbar.sys.typescale.label-medium",
       "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated_by": "Community BuildAR",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
       "tokens": [
         {
-          "id": "md.sys.typescale.label-medium",
+          "id": "cbar.sys.typescale.label-medium",
           "type": "custom",
           "value": "",
           "key": "label-medium"
         },
         {
-          "id": "md.sys.typescale.label-medium.text-transform",
+          "id": "cbar.sys.typescale.label-medium.text-transform",
           "type": "custom",
           "value": "1",
           "key": "text-transform"
         },
         {
-          "id": "md.sys.typescale.label-medium.line-height",
+          "id": "cbar.sys.typescale.label-medium.line-height",
           "type": "custom",
           "value": "",
           "key": "line-height"
         },
         {
-          "id": "md.sys.typescale.label-medium.tracking",
+          "id": "cbar.sys.typescale.label-medium.tracking",
           "type": "custom",
           "value": "",
           "key": "tracking"
         },
         {
-          "id": "md.sys.typescale.label-medium.size",
+          "id": "cbar.sys.typescale.label-medium.size",
           "type": "custom",
           "value": "",
           "key": "size"
         },
         {
-          "id": "md.sys.typescale.label-medium.weight",
+          "id": "cbar.sys.typescale.label-medium.weight",
           "type": "alias",
-          "value": "{md.ref.typeface.weight-medium}",
+          "value": "{cbar.ref.typeface.weight-medium}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.label-medium.font",
+          "id": "cbar.sys.typescale.label-medium.font",
           "type": "alias",
-          "value": "{md.ref.typeface.plain}",
+          "value": "{cbar.ref.typeface.plain}",
           "key": "family"
         }
       ]
@@ -110,48 +110,48 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "md.sys.typescale.label-large",
-      "name": "md.sys.typescale.label-large",
+      "id": "cbar.sys.typescale.label-large",
+      "name": "cbar.sys.typescale.label-large",
       "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated_by": "Community BuildAR",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
       "tokens": [
         {
-          "id": "md.sys.typescale.label-large",
+          "id": "cbar.sys.typescale.label-large",
           "type": "custom",
           "value": "",
           "key": "label-large"
         },
         {
-          "id": "md.sys.typescale.label-large.line-height",
+          "id": "cbar.sys.typescale.label-large.line-height",
           "type": "custom",
           "value": "",
           "key": "line-height"
         },
         {
-          "id": "md.sys.typescale.label-large.tracking",
+          "id": "cbar.sys.typescale.label-large.tracking",
           "type": "custom",
           "value": "",
           "key": "tracking"
         },
         {
-          "id": "md.sys.typescale.label-large.size",
+          "id": "cbar.sys.typescale.label-large.size",
           "type": "custom",
           "value": "",
           "key": "size"
         },
         {
-          "id": "md.sys.typescale.label-large.weight",
+          "id": "cbar.sys.typescale.label-large.weight",
           "type": "alias",
-          "value": "{md.ref.typeface.weight-medium}",
+          "value": "{cbar.ref.typeface.weight-medium}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.label-large.font",
+          "id": "cbar.sys.typescale.label-large.font",
           "type": "alias",
-          "value": "{md.ref.typeface.plain}",
+          "value": "{cbar.ref.typeface.plain}",
           "key": "family"
         }
       ]
@@ -159,48 +159,48 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "md.sys.typescale.body-small",
-      "name": "md.sys.typescale.body-small",
+      "id": "cbar.sys.typescale.body-small",
+      "name": "cbar.sys.typescale.body-small",
       "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated_by": "Community BuildAR",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
       "tokens": [
         {
-          "id": "md.sys.typescale.body-small",
+          "id": "cbar.sys.typescale.body-small",
           "type": "custom",
           "value": "",
           "key": "body-small"
         },
         {
-          "id": "md.sys.typescale.body-small.line-height",
+          "id": "cbar.sys.typescale.body-small.line-height",
           "type": "custom",
           "value": "",
           "key": "line-height"
         },
         {
-          "id": "md.sys.typescale.body-small.tracking",
+          "id": "cbar.sys.typescale.body-small.tracking",
           "type": "custom",
           "value": "",
           "key": "tracking"
         },
         {
-          "id": "md.sys.typescale.body-small.size",
+          "id": "cbar.sys.typescale.body-small.size",
           "type": "custom",
           "value": "",
           "key": "size"
         },
         {
-          "id": "md.sys.typescale.body-small.weight",
+          "id": "cbar.sys.typescale.body-small.weight",
           "type": "alias",
-          "value": "{md.ref.typeface.weight-regular}",
+          "value": "{cbar.ref.typeface.weight-regular}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.body-small.font",
+          "id": "cbar.sys.typescale.body-small.font",
           "type": "alias",
-          "value": "{md.ref.typeface.plain}",
+          "value": "{cbar.ref.typeface.plain}",
           "key": "family"
         }
       ]
@@ -208,48 +208,48 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "md.sys.typescale.body-medium",
-      "name": "md.sys.typescale.body-medium",
+      "id": "cbar.sys.typescale.body-medium",
+      "name": "cbar.sys.typescale.body-medium",
       "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated_by": "Community BuildAR",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
       "tokens": [
         {
-          "id": "md.sys.typescale.body-medium",
+          "id": "cbar.sys.typescale.body-medium",
           "type": "custom",
           "value": "",
           "key": "body-medium"
         },
         {
-          "id": "md.sys.typescale.body-medium.line-height",
+          "id": "cbar.sys.typescale.body-medium.line-height",
           "type": "custom",
           "value": "",
           "key": "line-height"
         },
         {
-          "id": "md.sys.typescale.body-medium.tracking",
+          "id": "cbar.sys.typescale.body-medium.tracking",
           "type": "custom",
           "value": "",
           "key": "tracking"
         },
         {
-          "id": "md.sys.typescale.body-medium.size",
+          "id": "cbar.sys.typescale.body-medium.size",
           "type": "custom",
           "value": "",
           "key": "size"
         },
         {
-          "id": "md.sys.typescale.body-medium.weight",
+          "id": "cbar.sys.typescale.body-medium.weight",
           "type": "alias",
-          "value": "{md.ref.typeface.weight-regular}",
+          "value": "{cbar.ref.typeface.weight-regular}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.body-medium.font",
+          "id": "cbar.sys.typescale.body-medium.font",
           "type": "alias",
-          "value": "{md.ref.typeface.plain}",
+          "value": "{cbar.ref.typeface.plain}",
           "key": "family"
         }
       ]
@@ -257,48 +257,48 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "md.sys.typescale.body-large",
-      "name": "md.sys.typescale.body-large",
+      "id": "cbar.sys.typescale.body-large",
+      "name": "cbar.sys.typescale.body-large",
       "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated_by": "Community BuildAR",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
       "tokens": [
         {
-          "id": "md.sys.typescale.body-large",
+          "id": "cbar.sys.typescale.body-large",
           "type": "custom",
           "value": "",
           "key": "body-large"
         },
         {
-          "id": "md.sys.typescale.body-large.line-height",
+          "id": "cbar.sys.typescale.body-large.line-height",
           "type": "custom",
           "value": "",
           "key": "line-height"
         },
         {
-          "id": "md.sys.typescale.body-large.tracking",
+          "id": "cbar.sys.typescale.body-large.tracking",
           "type": "custom",
           "value": "",
           "key": "tracking"
         },
         {
-          "id": "md.sys.typescale.body-large.size",
+          "id": "cbar.sys.typescale.body-large.size",
           "type": "custom",
           "value": "",
           "key": "size"
         },
         {
-          "id": "md.sys.typescale.body-large.weight",
+          "id": "cbar.sys.typescale.body-large.weight",
           "type": "alias",
-          "value": "{md.ref.typeface.weight-regular}",
+          "value": "{cbar.ref.typeface.weight-regular}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.body-large.font",
+          "id": "cbar.sys.typescale.body-large.font",
           "type": "alias",
-          "value": "{md.ref.typeface.plain}",
+          "value": "{cbar.ref.typeface.plain}",
           "key": "family"
         }
       ]
@@ -306,48 +306,48 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "md.sys.typescale.title-small",
-      "name": "md.sys.typescale.title-small",
+      "id": "cbar.sys.typescale.title-small",
+      "name": "cbar.sys.typescale.title-small",
       "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated_by": "Community BuildAR",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
       "tokens": [
         {
-          "id": "md.sys.typescale.title-small",
+          "id": "cbar.sys.typescale.title-small",
           "type": "custom",
           "value": "",
           "key": "title-small"
         },
         {
-          "id": "md.sys.typescale.title-small.line-height",
+          "id": "cbar.sys.typescale.title-small.line-height",
           "type": "custom",
           "value": "",
           "key": "line-height"
         },
         {
-          "id": "md.sys.typescale.title-small.tracking",
+          "id": "cbar.sys.typescale.title-small.tracking",
           "type": "custom",
           "value": "",
           "key": "tracking"
         },
         {
-          "id": "md.sys.typescale.title-small.size",
+          "id": "cbar.sys.typescale.title-small.size",
           "type": "custom",
           "value": "",
           "key": "size"
         },
         {
-          "id": "md.sys.typescale.title-small.weight",
+          "id": "cbar.sys.typescale.title-small.weight",
           "type": "alias",
-          "value": "{md.ref.typeface.weight-medium}",
+          "value": "{cbar.ref.typeface.weight-medium}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.title-small.font",
+          "id": "cbar.sys.typescale.title-small.font",
           "type": "alias",
-          "value": "{md.ref.typeface.plain}",
+          "value": "{cbar.ref.typeface.plain}",
           "key": "family"
         }
       ]
@@ -355,48 +355,48 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "md.sys.typescale.title-medium",
-      "name": "md.sys.typescale.title-medium",
+      "id": "cbar.sys.typescale.title-medium",
+      "name": "cbar.sys.typescale.title-medium",
       "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated_by": "Community BuildAR",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
       "tokens": [
         {
-          "id": "md.sys.typescale.title-medium",
+          "id": "cbar.sys.typescale.title-medium",
           "type": "custom",
           "value": "",
           "key": "title-medium"
         },
         {
-          "id": "md.sys.typescale.title-medium.line-height",
+          "id": "cbar.sys.typescale.title-medium.line-height",
           "type": "custom",
           "value": "",
           "key": "line-height"
         },
         {
-          "id": "md.sys.typescale.title-medium.tracking",
+          "id": "cbar.sys.typescale.title-medium.tracking",
           "type": "custom",
           "value": "",
           "key": "tracking"
         },
         {
-          "id": "md.sys.typescale.title-medium.size",
+          "id": "cbar.sys.typescale.title-medium.size",
           "type": "custom",
           "value": "",
           "key": "size"
         },
         {
-          "id": "md.sys.typescale.title-medium.weight",
+          "id": "cbar.sys.typescale.title-medium.weight",
           "type": "alias",
-          "value": "{md.ref.typeface.weight-medium}",
+          "value": "{cbar.ref.typeface.weight-medium}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.title-medium.font",
+          "id": "cbar.sys.typescale.title-medium.font",
           "type": "alias",
-          "value": "{md.ref.typeface.plain}",
+          "value": "{cbar.ref.typeface.plain}",
           "key": "family"
         }
       ]
@@ -404,48 +404,48 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "md.sys.typescale.title-large",
-      "name": "md.sys.typescale.title-large",
+      "id": "cbar.sys.typescale.title-large",
+      "name": "cbar.sys.typescale.title-large",
       "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated_by": "Community BuildAR",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
       "tokens": [
         {
-          "id": "md.sys.typescale.title-large",
+          "id": "cbar.sys.typescale.title-large",
           "type": "custom",
           "value": "",
           "key": "title-large"
         },
         {
-          "id": "md.sys.typescale.title-large.line-height",
+          "id": "cbar.sys.typescale.title-large.line-height",
           "type": "custom",
           "value": "",
           "key": "line-height"
         },
         {
-          "id": "md.sys.typescale.title-large.tracking",
+          "id": "cbar.sys.typescale.title-large.tracking",
           "type": "custom",
           "value": "",
           "key": "tracking"
         },
         {
-          "id": "md.sys.typescale.title-large.size",
+          "id": "cbar.sys.typescale.title-large.size",
           "type": "custom",
           "value": "",
           "key": "size"
         },
         {
-          "id": "md.sys.typescale.title-large.weight",
+          "id": "cbar.sys.typescale.title-large.weight",
           "type": "alias",
-          "value": "{md.ref.typeface.weight-regular}",
+          "value": "{cbar.ref.typeface.weight-regular}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.title-large.font",
+          "id": "cbar.sys.typescale.title-large.font",
           "type": "alias",
-          "value": "{md.ref.typeface.brand}",
+          "value": "{cbar.ref.typeface.brand}",
           "key": "family"
         }
       ]
@@ -453,48 +453,48 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "md.sys.typescale.headline-small",
-      "name": "md.sys.typescale.headline-small",
+      "id": "cbar.sys.typescale.headline-small",
+      "name": "cbar.sys.typescale.headline-small",
       "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated_by": "Community BuildAR",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
       "tokens": [
         {
-          "id": "md.sys.typescale.headline-small",
+          "id": "cbar.sys.typescale.headline-small",
           "type": "custom",
           "value": "",
           "key": "headline-small"
         },
         {
-          "id": "md.sys.typescale.headline-small.line-height",
+          "id": "cbar.sys.typescale.headline-small.line-height",
           "type": "custom",
           "value": "",
           "key": "line-height"
         },
         {
-          "id": "md.sys.typescale.headline-small.tracking",
+          "id": "cbar.sys.typescale.headline-small.tracking",
           "type": "custom",
           "value": "",
           "key": "tracking"
         },
         {
-          "id": "md.sys.typescale.headline-small.size",
+          "id": "cbar.sys.typescale.headline-small.size",
           "type": "custom",
           "value": "",
           "key": "size"
         },
         {
-          "id": "md.sys.typescale.headline-small.weight",
+          "id": "cbar.sys.typescale.headline-small.weight",
           "type": "alias",
-          "value": "{md.ref.typeface.weight-regular}",
+          "value": "{cbar.ref.typeface.weight-regular}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.headline-small.font",
+          "id": "cbar.sys.typescale.headline-small.font",
           "type": "alias",
-          "value": "{md.ref.typeface.brand}",
+          "value": "{cbar.ref.typeface.brand}",
           "key": "family"
         }
       ]
@@ -502,48 +502,48 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "md.sys.typescale.headline-medium",
-      "name": "md.sys.typescale.headline-medium",
+      "id": "cbar.sys.typescale.headline-medium",
+      "name": "cbar.sys.typescale.headline-medium",
       "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated_by": "Community BuildAR",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
       "tokens": [
         {
-          "id": "md.sys.typescale.headline-medium",
+          "id": "cbar.sys.typescale.headline-medium",
           "type": "custom",
           "value": "",
           "key": "headline-medium"
         },
         {
-          "id": "md.sys.typescale.headline-medium.line-height",
+          "id": "cbar.sys.typescale.headline-medium.line-height",
           "type": "custom",
           "value": "",
           "key": "line-height"
         },
         {
-          "id": "md.sys.typescale.headline-medium.tracking",
+          "id": "cbar.sys.typescale.headline-medium.tracking",
           "type": "custom",
           "value": "",
           "key": "tracking"
         },
         {
-          "id": "md.sys.typescale.headline-medium.size",
+          "id": "cbar.sys.typescale.headline-medium.size",
           "type": "custom",
           "value": "",
           "key": "size"
         },
         {
-          "id": "md.sys.typescale.headline-medium.weight",
+          "id": "cbar.sys.typescale.headline-medium.weight",
           "type": "alias",
-          "value": "{md.ref.typeface.weight-regular}",
+          "value": "{cbar.ref.typeface.weight-regular}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.headline-medium.font",
+          "id": "cbar.sys.typescale.headline-medium.font",
           "type": "alias",
-          "value": "{md.ref.typeface.brand}",
+          "value": "{cbar.ref.typeface.brand}",
           "key": "family"
         }
       ]
@@ -551,48 +551,48 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "md.sys.typescale.headline-large",
-      "name": "md.sys.typescale.headline-large",
+      "id": "cbar.sys.typescale.headline-large",
+      "name": "cbar.sys.typescale.headline-large",
       "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated_by": "Community BuildAR",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
       "tokens": [
         {
-          "id": "md.sys.typescale.headline-large",
+          "id": "cbar.sys.typescale.headline-large",
           "type": "custom",
           "value": "",
           "key": "headline-large"
         },
         {
-          "id": "md.sys.typescale.headline-large.line-height",
+          "id": "cbar.sys.typescale.headline-large.line-height",
           "type": "custom",
           "value": "",
           "key": "line-height"
         },
         {
-          "id": "md.sys.typescale.headline-large.tracking",
+          "id": "cbar.sys.typescale.headline-large.tracking",
           "type": "custom",
           "value": "",
           "key": "tracking"
         },
         {
-          "id": "md.sys.typescale.headline-large.size",
+          "id": "cbar.sys.typescale.headline-large.size",
           "type": "custom",
           "value": "",
           "key": "size"
         },
         {
-          "id": "md.sys.typescale.headline-large.font",
+          "id": "cbar.sys.typescale.headline-large.font",
           "type": "alias",
-          "value": "{md.ref.typeface.brand}",
+          "value": "{cbar.ref.typeface.brand}",
           "key": "family"
         },
         {
-          "id": "md.sys.typescale.headline-large.weight",
+          "id": "cbar.sys.typescale.headline-large.weight",
           "type": "alias",
-          "value": "{md.ref.typeface.weight-regular}",
+          "value": "{cbar.ref.typeface.weight-regular}",
           "key": "weight"
         }
       ]
@@ -600,48 +600,48 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "md.sys.typescale.display-small",
-      "name": "md.sys.typescale.display-small",
+      "id": "cbar.sys.typescale.display-small",
+      "name": "cbar.sys.typescale.display-small",
       "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated_by": "Community BuildAR",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
       "tokens": [
         {
-          "id": "md.sys.typescale.display-small",
+          "id": "cbar.sys.typescale.display-small",
           "type": "custom",
           "value": "",
           "key": "display-small"
         },
         {
-          "id": "md.sys.typescale.display-small.line-height",
+          "id": "cbar.sys.typescale.display-small.line-height",
           "type": "custom",
           "value": "",
           "key": "line-height"
         },
         {
-          "id": "md.sys.typescale.display-small.tracking",
+          "id": "cbar.sys.typescale.display-small.tracking",
           "type": "custom",
           "value": "",
           "key": "tracking"
         },
         {
-          "id": "md.sys.typescale.display-small.size",
+          "id": "cbar.sys.typescale.display-small.size",
           "type": "custom",
           "value": "",
           "key": "size"
         },
         {
-          "id": "md.sys.typescale.display-small.weight",
+          "id": "cbar.sys.typescale.display-small.weight",
           "type": "alias",
-          "value": "{md.ref.typeface.weight-regular}",
+          "value": "{cbar.ref.typeface.weight-regular}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.display-small.font",
+          "id": "cbar.sys.typescale.display-small.font",
           "type": "alias",
-          "value": "{md.ref.typeface.brand}",
+          "value": "{cbar.ref.typeface.brand}",
           "key": "family"
         }
       ]
@@ -649,48 +649,48 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "md.sys.typescale.display-medium",
-      "name": "md.sys.typescale.display-medium",
+      "id": "cbar.sys.typescale.display-medium",
+      "name": "cbar.sys.typescale.display-medium",
       "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated_by": "Community BuildAR",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
       "tokens": [
         {
-          "id": "md.sys.typescale.display-medium",
+          "id": "cbar.sys.typescale.display-medium",
           "type": "custom",
           "value": "",
           "key": "display-medium"
         },
         {
-          "id": "md.sys.typescale.display-medium.line-height",
+          "id": "cbar.sys.typescale.display-medium.line-height",
           "type": "custom",
           "value": "",
           "key": "line-height"
         },
         {
-          "id": "md.sys.typescale.display-medium.tracking",
+          "id": "cbar.sys.typescale.display-medium.tracking",
           "type": "custom",
           "value": "",
           "key": "tracking"
         },
         {
-          "id": "md.sys.typescale.display-medium.size",
+          "id": "cbar.sys.typescale.display-medium.size",
           "type": "custom",
           "value": "",
           "key": "size"
         },
         {
-          "id": "md.sys.typescale.display-medium.weight",
+          "id": "cbar.sys.typescale.display-medium.weight",
           "type": "alias",
-          "value": "{md.ref.typeface.weight-regular}",
+          "value": "{cbar.ref.typeface.weight-regular}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.display-medium.font",
+          "id": "cbar.sys.typescale.display-medium.font",
           "type": "alias",
-          "value": "{md.ref.typeface.brand}",
+          "value": "{cbar.ref.typeface.brand}",
           "key": "family"
         }
       ]
@@ -698,48 +698,48 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "md.sys.typescale.display-large",
-      "name": "md.sys.typescale.display-large",
+      "id": "cbar.sys.typescale.display-large",
+      "name": "cbar.sys.typescale.display-large",
       "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated_by": "Community BuildAR",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
       "tokens": [
         {
-          "id": "md.sys.typescale.display-large",
+          "id": "cbar.sys.typescale.display-large",
           "type": "custom",
           "value": "",
           "key": "display-large"
         },
         {
-          "id": "md.sys.typescale.display-large.line-height",
+          "id": "cbar.sys.typescale.display-large.line-height",
           "type": "custom",
           "value": "",
           "key": "line-height"
         },
         {
-          "id": "md.sys.typescale.display-large.tracking",
+          "id": "cbar.sys.typescale.display-large.tracking",
           "type": "custom",
           "value": "",
           "key": "tracking"
         },
         {
-          "id": "md.sys.typescale.display-large.size",
+          "id": "cbar.sys.typescale.display-large.size",
           "type": "custom",
           "value": "",
           "key": "size"
         },
         {
-          "id": "md.sys.typescale.display-large.weight",
+          "id": "cbar.sys.typescale.display-large.weight",
           "type": "alias",
-          "value": "{md.ref.typeface.weight-regular}",
+          "value": "{cbar.ref.typeface.weight-regular}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.display-large.font",
+          "id": "cbar.sys.typescale.display-large.font",
           "type": "alias",
-          "value": "{md.ref.typeface.brand}",
+          "value": "{cbar.ref.typeface.brand}",
           "key": "family"
         }
       ]

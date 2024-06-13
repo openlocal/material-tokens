@@ -1,62 +1,62 @@
 {
-  "md.comp.search-view.docked.header.container.height": {
+  "cbar.comp.search-view.docked.header.container.height": {
     "description": "Search view docked header container height",
     "value": "56px"
   },
-  "md.comp.search-view.full-screen.header.container.height": {
+  "cbar.comp.search-view.full-screen.header.container.height": {
     "description": "Search view full screen header container height",
     "value": "72px"
   },
-  "md.comp.search-view.header.input-text.tracking": {
+  "cbar.comp.search-view.header.input-text.tracking": {
     "description": "Search view header input text tracking",
-    "value": "{md.sys.typescale.body-large.tracking}"
+    "value": "{cbar.sys.typescale.body-large.tracking}"
   },
-  "md.comp.search-view.header.input-text.weight": {
+  "cbar.comp.search-view.header.input-text.weight": {
     "description": "Search view header input text weight",
-    "value": "{md.sys.typescale.body-large.weight}"
+    "value": "{cbar.sys.typescale.body-large.weight}"
   },
-  "md.comp.search-view.header.input-text.size": {
+  "cbar.comp.search-view.header.input-text.size": {
     "description": "Search view header input text size",
-    "value": "{md.sys.typescale.body-large.size}"
+    "value": "{cbar.sys.typescale.body-large.size}"
   },
-  "md.comp.search-view.header.input-text.line-height": {
+  "cbar.comp.search-view.header.input-text.line-height": {
     "description": "Search view header input text line height",
-    "value": "{md.sys.typescale.body-large.line-height}"
+    "value": "{cbar.sys.typescale.body-large.line-height}"
   },
-  "md.comp.search-view.header.input-text.font": {
+  "cbar.comp.search-view.header.input-text.font": {
     "description": "Search view header input text font",
-    "value": "{md.sys.typescale.body-large.font}"
+    "value": "{cbar.sys.typescale.body-large.font}"
   },
-  "md.comp.search-view.header.supporting-text.tracking": {
+  "cbar.comp.search-view.header.supporting-text.tracking": {
     "description": "Search view header supporting text tracking",
-    "value": "{md.sys.typescale.body-large.tracking}"
+    "value": "{cbar.sys.typescale.body-large.tracking}"
   },
-  "md.comp.search-view.header.supporting-text.weight": {
+  "cbar.comp.search-view.header.supporting-text.weight": {
     "description": "Search view header supporting text weight",
-    "value": "{md.sys.typescale.body-large.weight}"
+    "value": "{cbar.sys.typescale.body-large.weight}"
   },
-  "md.comp.search-view.header.supporting-text.size": {
+  "cbar.comp.search-view.header.supporting-text.size": {
     "description": "Search view header supporting text size",
-    "value": "{md.sys.typescale.body-large.size}"
+    "value": "{cbar.sys.typescale.body-large.size}"
   },
-  "md.comp.search-view.header.supporting-text.line-height": {
+  "cbar.comp.search-view.header.supporting-text.line-height": {
     "description": "Search view header supporting text line height",
-    "value": "{md.sys.typescale.body-large.line-height}"
+    "value": "{cbar.sys.typescale.body-large.line-height}"
   },
-  "md.comp.search-view.header.supporting-text.font": {
+  "cbar.comp.search-view.header.supporting-text.font": {
     "description": "Search view header supporting text font",
-    "value": "{md.sys.typescale.body-large.font}"
+    "value": "{cbar.sys.typescale.body-large.font}"
   },
-  "md.comp.search-view.container.elevation": {
+  "cbar.comp.search-view.container.elevation": {
     "description": "Search view container elevation",
-    "value": "{md.sys.elevation.level3}"
+    "value": "{cbar.sys.elevation.level3}"
   },
-  "md.comp.search-view.docked.container.shape": {
+  "cbar.comp.search-view.docked.container.shape": {
     "description": "Search view docked container shape",
-    "value": "{md.sys.shape.corner.extra-large}"
+    "value": "{cbar.sys.shape.corner.extra-large}"
   },
-  "md.comp.search-view.full-screen.container.shape": {
+  "cbar.comp.search-view.full-screen.container.shape": {
     "description": "Search view full screen container shape",
-    "value": "{md.sys.shape.corner.none}"
+    "value": "{cbar.sys.shape.corner.none}"
   }
 }

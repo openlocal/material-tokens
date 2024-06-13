@@ -1,22 +1,22 @@
 {
   "custom": {
-    "md_ref_typeface_plain": {
+    "cbar_ref_typeface_plain": {
       "value": "Roboto",
       "comment": "Plain typeface"
     },
-    "md_ref_typeface_brand": {
+    "cbar_ref_typeface_brand": {
       "value": "Roboto",
       "comment": "Brand typeface"
     },
-    "md_ref_typeface_weight-bold": {
+    "cbar_ref_typeface_weight-bold": {
       "value": "700",
       "comment": "Bold weight"
     },
-    "md_ref_typeface_weight-medium": {
+    "cbar_ref_typeface_weight-medium": {
       "value": "500",
       "comment": "Medium weight"
     },
-    "md_ref_typeface_weight-regular": {
+    "cbar_ref_typeface_weight-regular": {
       "value": "400",
       "comment": "Regular weight"
     }

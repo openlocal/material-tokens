@@ -1,25 +1,25 @@
 {
-  "md.sys.elevation.level0": {
+  "cbar.sys.elevation.level0": {
     "description": "0",
     "value": "0px"
   },
-  "md.sys.elevation.level1": {
+  "cbar.sys.elevation.level1": {
     "description": "+1",
     "value": "1px"
   },
-  "md.sys.elevation.level2": {
+  "cbar.sys.elevation.level2": {
     "description": "+2",
     "value": "3px"
   },
-  "md.sys.elevation.level3": {
+  "cbar.sys.elevation.level3": {
     "description": "+3",
     "value": "6px"
   },
-  "md.sys.elevation.level4": {
+  "cbar.sys.elevation.level4": {
     "description": "+4",
     "value": "8px"
   },
-  "md.sys.elevation.level5": {
+  "cbar.sys.elevation.level5": {
     "description": "+5",
     "value": "12px"
   }

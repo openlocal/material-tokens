@@ -1,86 +1,86 @@
 {
-  "md.comp.snackbar.icon.pressed.state-layer.opacity": {
+  "cbar.comp.snackbar.icon.pressed.state-layer.opacity": {
     "description": "Snackbar icon pressed state layer opacity",
-    "value": "{md.sys.state.pressed.state-layer-opacity}"
+    "value": "{cbar.sys.state.pressed.state-layer-opacity}"
   },
-  "md.comp.snackbar.icon.focus.state-layer.opacity": {
+  "cbar.comp.snackbar.icon.focus.state-layer.opacity": {
     "description": "Snackbar icon focus state layer opacity",
-    "value": "{md.sys.state.focus.state-layer-opacity}"
+    "value": "{cbar.sys.state.focus.state-layer-opacity}"
   },
-  "md.comp.snackbar.icon.hover.state-layer.opacity": {
+  "cbar.comp.snackbar.icon.hover.state-layer.opacity": {
     "description": "Snackbar icon hover state layer opacity",
-    "value": "{md.sys.state.hover.state-layer-opacity}"
+    "value": "{cbar.sys.state.hover.state-layer-opacity}"
   },
-  "md.comp.snackbar.icon.size": {
+  "cbar.comp.snackbar.icon.size": {
     "description": "Snackbar icon size",
     "value": "24px"
   },
-  "md.comp.snackbar.with-two-lines.container.height": {
+  "cbar.comp.snackbar.with-two-lines.container.height": {
     "description": "Snackbar container with two lines height",
     "value": "68px"
   },
-  "md.comp.snackbar.with-single-line.container.height": {
+  "cbar.comp.snackbar.with-single-line.container.height": {
     "description": "Snackbar container with single line height",
     "value": "48px"
   },
-  "md.comp.snackbar.action.pressed.state-layer.opacity": {
+  "cbar.comp.snackbar.action.pressed.state-layer.opacity": {
     "description": "Snackbar pressed state layer opacity",
-    "value": "{md.sys.state.pressed.state-layer-opacity}"
+    "value": "{cbar.sys.state.pressed.state-layer-opacity}"
   },
-  "md.comp.snackbar.action.focus.state-layer.opacity": {
+  "cbar.comp.snackbar.action.focus.state-layer.opacity": {
     "description": "Snackbar focus state layer opacity",
-    "value": "{md.sys.state.focus.state-layer-opacity}"
+    "value": "{cbar.sys.state.focus.state-layer-opacity}"
   },
-  "md.comp.snackbar.action.hover.state-layer.opacity": {
+  "cbar.comp.snackbar.action.hover.state-layer.opacity": {
     "description": "Snackbar hover state layer opacity",
-    "value": "{md.sys.state.hover.state-layer-opacity}"
+    "value": "{cbar.sys.state.hover.state-layer-opacity}"
   },
-  "md.comp.snackbar.action.label-text.weight": {
+  "cbar.comp.snackbar.action.label-text.weight": {
     "description": "Snackbar label text weight",
-    "value": "{md.sys.typescale.label-large.weight}"
+    "value": "{cbar.sys.typescale.label-large.weight}"
   },
-  "md.comp.snackbar.action.label-text.tracking": {
+  "cbar.comp.snackbar.action.label-text.tracking": {
     "description": "Snackbar label text tracking",
-    "value": "{md.sys.typescale.label-large.tracking}"
+    "value": "{cbar.sys.typescale.label-large.tracking}"
   },
-  "md.comp.snackbar.action.label-text.size": {
+  "cbar.comp.snackbar.action.label-text.size": {
     "description": "Snackbar label text size",
-    "value": "{md.sys.typescale.label-large.size}"
+    "value": "{cbar.sys.typescale.label-large.size}"
   },
-  "md.comp.snackbar.action.label-text.line-height": {
+  "cbar.comp.snackbar.action.label-text.line-height": {
     "description": "Snackbar label text line height",
-    "value": "{md.sys.typescale.label-large.line-height}"
+    "value": "{cbar.sys.typescale.label-large.line-height}"
   },
-  "md.comp.snackbar.action.label-text.font": {
+  "cbar.comp.snackbar.action.label-text.font": {
     "description": "Snackbar label text font",
-    "value": "{md.sys.typescale.label-large.font}"
+    "value": "{cbar.sys.typescale.label-large.font}"
   },
-  "md.comp.snackbar.supporting-text.weight": {
+  "cbar.comp.snackbar.supporting-text.weight": {
     "description": "Snackbar supporting text weight",
-    "value": "{md.sys.typescale.body-medium.weight}"
+    "value": "{cbar.sys.typescale.body-medium.weight}"
   },
-  "md.comp.snackbar.supporting-text.tracking": {
+  "cbar.comp.snackbar.supporting-text.tracking": {
     "description": "Snackbar supporting text tracking",
-    "value": "{md.sys.typescale.body-medium.tracking}"
+    "value": "{cbar.sys.typescale.body-medium.tracking}"
   },
-  "md.comp.snackbar.supporting-text.size": {
+  "cbar.comp.snackbar.supporting-text.size": {
     "description": "Snackbar supporting text size",
-    "value": "{md.sys.typescale.body-medium.size}"
+    "value": "{cbar.sys.typescale.body-medium.size}"
   },
-  "md.comp.snackbar.supporting-text.line-height": {
+  "cbar.comp.snackbar.supporting-text.line-height": {
     "description": "Snackbar supporting text line height",
-    "value": "{md.sys.typescale.body-medium.line-height}"
+    "value": "{cbar.sys.typescale.body-medium.line-height}"
   },
-  "md.comp.snackbar.supporting-text.font": {
+  "cbar.comp.snackbar.supporting-text.font": {
     "description": "Snackbar supporting text font",
-    "value": "{md.sys.typescale.body-medium.font}"
+    "value": "{cbar.sys.typescale.body-medium.font}"
   },
-  "md.comp.snackbar.container.shape": {
+  "cbar.comp.snackbar.container.shape": {
     "description": "Snackbar container shape",
-    "value": "{md.sys.shape.corner.extra-small}"
+    "value": "{cbar.sys.shape.corner.extra-small}"
   },
-  "md.comp.snackbar.container.elevation": {
+  "cbar.comp.snackbar.container.elevation": {
     "description": "Snackbar container elevation",
-    "value": "{md.sys.elevation.level3}"
+    "value": "{cbar.sys.elevation.level3}"
   }
 }

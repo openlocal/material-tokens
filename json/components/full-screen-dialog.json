@@ -1,126 +1,126 @@
 {
-  "md.comp.full-screen-dialog.with-divider.divider.height": {
+  "cbar.comp.full-screen-dialog.with-divider.divider.height": {
     "description": "Full screen dialog divider height",
     "value": "1px"
   },
-  "md.comp.full-screen-dialog.action-bar.pressed.state-layer.opacity": {
+  "cbar.comp.full-screen-dialog.action-bar.pressed.state-layer.opacity": {
     "description": "Full screen dialog action bar pressed state layer opacity",
-    "value": "{md.sys.state.pressed.state-layer-opacity}"
+    "value": "{cbar.sys.state.pressed.state-layer-opacity}"
   },
-  "md.comp.full-screen-dialog.action-bar.focus.state-layer.opacity": {
+  "cbar.comp.full-screen-dialog.action-bar.focus.state-layer.opacity": {
     "description": "Full screen dialog action bar focus state layer opacity",
-    "value": "{md.sys.state.focus.state-layer-opacity}"
+    "value": "{cbar.sys.state.focus.state-layer-opacity}"
   },
-  "md.comp.full-screen-dialog.action-bar.hover.state-layer.opacity": {
+  "cbar.comp.full-screen-dialog.action-bar.hover.state-layer.opacity": {
     "description": "Full screen dialog action bar hover state layer opacity",
-    "value": "{md.sys.state.hover.state-layer-opacity}"
+    "value": "{cbar.sys.state.hover.state-layer-opacity}"
   },
-  "md.comp.full-screen-dialog.action-bar.label-text.tracking": {
+  "cbar.comp.full-screen-dialog.action-bar.label-text.tracking": {
     "description": "Full screen dialog action bar label text tracking",
-    "value": "{md.sys.typescale.label-large.tracking}"
+    "value": "{cbar.sys.typescale.label-large.tracking}"
   },
-  "md.comp.full-screen-dialog.action-bar.label-text.weight": {
+  "cbar.comp.full-screen-dialog.action-bar.label-text.weight": {
     "description": "Full screen dialog action bar label text weight",
-    "value": "{md.sys.typescale.label-large.weight}"
+    "value": "{cbar.sys.typescale.label-large.weight}"
   },
-  "md.comp.full-screen-dialog.action-bar.label-text.size": {
+  "cbar.comp.full-screen-dialog.action-bar.label-text.size": {
     "description": "Full screen dialog action bar label text size",
-    "value": "{md.sys.typescale.label-large.size}"
+    "value": "{cbar.sys.typescale.label-large.size}"
   },
-  "md.comp.full-screen-dialog.action-bar.label-text.line-height": {
+  "cbar.comp.full-screen-dialog.action-bar.label-text.line-height": {
     "description": "Full screen dialog action bar label text line height",
-    "value": "{md.sys.typescale.label-large.line-height}"
+    "value": "{cbar.sys.typescale.label-large.line-height}"
   },
-  "md.comp.full-screen-dialog.action-bar.label-text.font": {
+  "cbar.comp.full-screen-dialog.action-bar.label-text.font": {
     "description": "Full screen dialog action bar label text font",
-    "value": "{md.sys.typescale.label-large.font}"
+    "value": "{cbar.sys.typescale.label-large.font}"
   },
-  "md.comp.full-screen-dialog.action-bar.on-scroll.container.elevation": {
+  "cbar.comp.full-screen-dialog.action-bar.on-scroll.container.elevation": {
     "description": "Full screen dialog action bar on scroll container elevation",
-    "value": "{md.sys.elevation.level2}"
+    "value": "{cbar.sys.elevation.level2}"
   },
-  "md.comp.full-screen-dialog.action-bar.container.elevation": {
+  "cbar.comp.full-screen-dialog.action-bar.container.elevation": {
     "description": "Full screen dialog action bar container elevation",
-    "value": "{md.sys.elevation.level0}"
+    "value": "{cbar.sys.elevation.level0}"
   },
-  "md.comp.full-screen-dialog.action-bar.container.height": {
+  "cbar.comp.full-screen-dialog.action-bar.container.height": {
     "description": "Full screen dialog action bar container height",
     "value": "56px"
   },
-  "md.comp.full-screen-dialog.header.action.focus.state-layer.opacity": {
+  "cbar.comp.full-screen-dialog.header.action.focus.state-layer.opacity": {
     "description": "Full screen dialog header action focus state layer opacity",
-    "value": "{md.sys.state.focus.state-layer-opacity}"
+    "value": "{cbar.sys.state.focus.state-layer-opacity}"
   },
-  "md.comp.full-screen-dialog.header.action.hover.state-layer.opacity": {
+  "cbar.comp.full-screen-dialog.header.action.hover.state-layer.opacity": {
     "description": "Full screen dialog header action hover state layer opacity",
-    "value": "{md.sys.state.hover.state-layer-opacity}"
+    "value": "{cbar.sys.state.hover.state-layer-opacity}"
   },
-  "md.comp.full-screen-dialog.header.action.label-text.tracking": {
+  "cbar.comp.full-screen-dialog.header.action.label-text.tracking": {
     "description": "Full screen dialog header action label text tracking",
-    "value": "{md.sys.typescale.label-large.tracking}"
+    "value": "{cbar.sys.typescale.label-large.tracking}"
   },
-  "md.comp.full-screen-dialog.header.action.label-text.weight": {
+  "cbar.comp.full-screen-dialog.header.action.label-text.weight": {
     "description": "Full screen dialog header action label text weight",
-    "value": "{md.sys.typescale.label-large.weight}"
+    "value": "{cbar.sys.typescale.label-large.weight}"
   },
-  "md.comp.full-screen-dialog.header.action.label-text.size": {
+  "cbar.comp.full-screen-dialog.header.action.label-text.size": {
     "description": "Full screen dialog header action label text size",
-    "value": "{md.sys.typescale.label-large.size}"
+    "value": "{cbar.sys.typescale.label-large.size}"
   },
-  "md.comp.full-screen-dialog.header.action.label-text.line-height": {
+  "cbar.comp.full-screen-dialog.header.action.label-text.line-height": {
     "description": "Full screen dialog header action label text line height",
-    "value": "{md.sys.typescale.label-large.line-height}"
+    "value": "{cbar.sys.typescale.label-large.line-height}"
   },
-  "md.comp.full-screen-dialog.header.action.label-text.font": {
+  "cbar.comp.full-screen-dialog.header.action.label-text.font": {
     "description": "Full screen dialog header action label text font",
-    "value": "{md.sys.typescale.label-large.font}"
+    "value": "{cbar.sys.typescale.label-large.font}"
   },
-  "md.comp.full-screen-dialog.header.headline.tracking": {
+  "cbar.comp.full-screen-dialog.header.headline.tracking": {
     "description": "Full screen dialog header headline tracking",
-    "value": "{md.sys.typescale.title-large.tracking}"
+    "value": "{cbar.sys.typescale.title-large.tracking}"
   },
-  "md.comp.full-screen-dialog.header.headline.weight": {
+  "cbar.comp.full-screen-dialog.header.headline.weight": {
     "description": "Full screen dialog header headline weight",
-    "value": "{md.sys.typescale.title-large.weight}"
+    "value": "{cbar.sys.typescale.title-large.weight}"
   },
-  "md.comp.full-screen-dialog.header.headline.size": {
+  "cbar.comp.full-screen-dialog.header.headline.size": {
     "description": "Full screen dialog header headline size",
-    "value": "{md.sys.typescale.title-large.size}"
+    "value": "{cbar.sys.typescale.title-large.size}"
   },
-  "md.comp.full-screen-dialog.header.headline.line-height": {
+  "cbar.comp.full-screen-dialog.header.headline.line-height": {
     "description": "Full screen dialog header headline line height",
-    "value": "{md.sys.typescale.title-large.line-height}"
+    "value": "{cbar.sys.typescale.title-large.line-height}"
   },
-  "md.comp.full-screen-dialog.header.headline.font": {
+  "cbar.comp.full-screen-dialog.header.headline.font": {
     "description": "Full screen dialog header headline font",
-    "value": "{md.sys.typescale.title-large.font}"
+    "value": "{cbar.sys.typescale.title-large.font}"
   },
-  "md.comp.full-screen-dialog.header.icon.size": {
+  "cbar.comp.full-screen-dialog.header.icon.size": {
     "description": "Full screen dialog header icon size",
     "value": "24px"
   },
-  "md.comp.full-screen-dialog.header.on-scroll.container.elevation": {
+  "cbar.comp.full-screen-dialog.header.on-scroll.container.elevation": {
     "description": "Full screen dialog header on scroll container elevation",
-    "value": "{md.sys.elevation.level2}"
+    "value": "{cbar.sys.elevation.level2}"
   },
-  "md.comp.full-screen-dialog.header.container.elevation": {
+  "cbar.comp.full-screen-dialog.header.container.elevation": {
     "description": "Full screen dialog header container elevation",
-    "value": "{md.sys.elevation.level0}"
+    "value": "{cbar.sys.elevation.level0}"
   },
-  "md.comp.full-screen-dialog.header.container.height": {
+  "cbar.comp.full-screen-dialog.header.container.height": {
     "description": "Full screen dialog header container height",
     "value": "56px"
   },
-  "md.comp.full-screen-dialog.container.shape": {
+  "cbar.comp.full-screen-dialog.container.shape": {
     "description": "Full screen dialog container shape",
-    "value": "{md.sys.shape.corner.none}"
+    "value": "{cbar.sys.shape.corner.none}"
   },
-  "md.comp.full-screen-dialog.container.elevation": {
+  "cbar.comp.full-screen-dialog.container.elevation": {
     "description": "Full screen dialog container elevation",
-    "value": "{md.sys.elevation.level0}"
+    "value": "{cbar.sys.elevation.level0}"
   },
-  "md.comp.full-screen-dialog.header.action.pressed.state-layer.opacity": {
+  "cbar.comp.full-screen-dialog.header.action.pressed.state-layer.opacity": {
     "description": "Full screen dialog header action pressed state layer opacity",
-    "value": "{md.sys.state.pressed.state-layer-opacity}"
+    "value": "{cbar.sys.state.pressed.state-layer-opacity}"
   }
 }

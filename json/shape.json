@@ -1,5 +1,5 @@
 {
-  "md.sys.shape.corner.extra-small.top": {
+  "cbar.sys.shape.corner.extra-small.top": {
     "type": "shape",
     "description": "Extra small top rounding",
     "value": {
@@ -9,7 +9,7 @@
       "topRight": "4px"
     }
   },
-  "md.sys.shape.corner.extra-small": {
+  "cbar.sys.shape.corner.extra-small": {
     "type": "shape",
     "description": "Extra small rounding",
     "value": {
@@ -17,7 +17,7 @@
       "method": "round"
     }
   },
-  "md.sys.shape.corner.large": {
+  "cbar.sys.shape.corner.large": {
     "type": "shape",
     "description": "Large rounding",
     "value": {
@@ -25,7 +25,7 @@
       "method": "round"
     }
   },
-  "md.sys.shape.corner.none": {
+  "cbar.sys.shape.corner.none": {
     "type": "shape",
     "description": "No rounding",
     "value": {
@@ -33,7 +33,7 @@
       "method": "round"
     }
   },
-  "md.sys.shape.corner.large.start": {
+  "cbar.sys.shape.corner.large.start": {
     "type": "shape",
     "description": "Large start rounding",
     "value": {
@@ -43,7 +43,7 @@
       "bottomLeft": "16px"
     }
   },
-  "md.sys.shape.corner.medium": {
+  "cbar.sys.shape.corner.medium": {
     "type": "shape",
     "description": "Medium rounding",
     "value": {
@@ -51,7 +51,7 @@
       "method": "round"
     }
   },
-  "md.sys.shape.corner.small": {
+  "cbar.sys.shape.corner.small": {
     "type": "shape",
     "description": "Small rounding",
     "value": {
@@ -59,7 +59,7 @@
       "method": "round"
     }
   },
-  "md.sys.shape.corner.large.end": {
+  "cbar.sys.shape.corner.large.end": {
     "type": "shape",
     "description": "Large end rounding",
     "value": {
@@ -69,7 +69,7 @@
       "bottomRight": "16px"
     }
   },
-  "md.sys.shape.corner.large.top": {
+  "cbar.sys.shape.corner.large.top": {
     "type": "shape",
     "description": "Large top rounding",
     "value": {
@@ -79,7 +79,7 @@
       "topRight": "16px"
     }
   },
-  "md.sys.shape.corner.extra-large": {
+  "cbar.sys.shape.corner.extra-large": {
     "type": "shape",
     "description": "Extra large rounding",
     "value": {
@@ -87,7 +87,7 @@
       "method": "round"
     }
   },
-  "md.sys.shape.corner.extra-large.top": {
+  "cbar.sys.shape.corner.extra-large.top": {
     "type": "shape",
     "description": "Extra large top rounding",
     "value": {
@@ -97,7 +97,7 @@
       "topRight": "28px"
     }
   },
-  "md.sys.shape.corner.full": {
+  "cbar.sys.shape.corner.full": {
     "type": "shape",
     "description": "Fully rounded",
     "value": {

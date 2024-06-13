@@ -1,126 +1,126 @@
 {
-  "md.sys.color.scrim": {
+  "cbar.sys.color.scrim": {
     "description": "Scrim",
-    "value": "{md.ref.palette.neutral0}"
+    "value": "{cbar.ref.palette.neutral0}"
   },
-  "md.sys.color.outline-variant": {
+  "cbar.sys.color.outline-variant": {
     "description": "Outline Variant",
-    "value": "{md.ref.palette.neutral-variant80}"
+    "value": "{cbar.ref.palette.neutral-variant80}"
   },
-  "md.sys.color.surface-tint": {
+  "cbar.sys.color.surface-tint": {
     "description": "Surface tint",
-    "value": "{md.sys.color.primary}"
+    "value": "{cbar.sys.color.primary}"
   },
-  "md.sys.color.surface-tint-color": {
+  "cbar.sys.color.surface-tint-color": {
     "description": "Surface tint color",
-    "value": "{md.sys.color.primary}"
+    "value": "{cbar.sys.color.primary}"
   },
-  "md.sys.color.on-error-container": {
+  "cbar.sys.color.on-error-container": {
     "description": "On error container",
-    "value": "{md.ref.palette.error10}"
+    "value": "{cbar.ref.palette.error10}"
   },
-  "md.sys.color.on-error": {
+  "cbar.sys.color.on-error": {
     "description": "On error",
-    "value": "{md.ref.palette.error100}"
+    "value": "{cbar.ref.palette.error100}"
   },
-  "md.sys.color.error-container": {
+  "cbar.sys.color.error-container": {
     "description": "Error container",
-    "value": "{md.ref.palette.error90}"
+    "value": "{cbar.ref.palette.error90}"
   },
-  "md.sys.color.on-tertiary-container": {
+  "cbar.sys.color.on-tertiary-container": {
     "description": "On tertiary container",
-    "value": "{md.ref.palette.tertiary10}"
+    "value": "{cbar.ref.palette.tertiary10}"
   },
-  "md.sys.color.on-tertiary": {
+  "cbar.sys.color.on-tertiary": {
     "description": "On tertiary",
-    "value": "{md.ref.palette.tertiary100}"
+    "value": "{cbar.ref.palette.tertiary100}"
   },
-  "md.sys.color.tertiary-container": {
+  "cbar.sys.color.tertiary-container": {
     "description": "Tertiary container",
-    "value": "{md.ref.palette.tertiary90}"
+    "value": "{cbar.ref.palette.tertiary90}"
   },
-  "md.sys.color.tertiary": {
+  "cbar.sys.color.tertiary": {
     "description": "Tertiary",
-    "value": "{md.ref.palette.tertiary40}"
+    "value": "{cbar.ref.palette.tertiary40}"
   },
-  "md.sys.color.shadow": {
+  "cbar.sys.color.shadow": {
     "description": "Shadow",
-    "value": "{md.ref.palette.neutral0}"
+    "value": "{cbar.ref.palette.neutral0}"
   },
-  "md.sys.color.error": {
+  "cbar.sys.color.error": {
     "description": "Error",
-    "value": "{md.ref.palette.error40}"
+    "value": "{cbar.ref.palette.error40}"
   },
-  "md.sys.color.outline": {
+  "cbar.sys.color.outline": {
     "description": "Outline",
-    "value": "{md.ref.palette.neutral-variant50}"
+    "value": "{cbar.ref.palette.neutral-variant50}"
   },
-  "md.sys.color.on-background": {
+  "cbar.sys.color.on-background": {
     "description": "On background",
-    "value": "{md.ref.palette.neutral10}"
+    "value": "{cbar.ref.palette.neutral10}"
   },
-  "md.sys.color.background": {
+  "cbar.sys.color.background": {
     "description": "Background",
-    "value": "{md.ref.palette.neutral99}"
+    "value": "{cbar.ref.palette.neutral99}"
   },
-  "md.sys.color.inverse-on-surface": {
+  "cbar.sys.color.inverse-on-surface": {
     "description": "Inverse on surface",
-    "value": "{md.ref.palette.neutral95}"
+    "value": "{cbar.ref.palette.neutral95}"
   },
-  "md.sys.color.inverse-surface": {
+  "cbar.sys.color.inverse-surface": {
     "description": "Inverse surface",
-    "value": "{md.ref.palette.neutral20}"
+    "value": "{cbar.ref.palette.neutral20}"
   },
-  "md.sys.color.on-surface-variant": {
+  "cbar.sys.color.on-surface-variant": {
     "description": "On surface variant",
-    "value": "{md.ref.palette.neutral-variant30}"
+    "value": "{cbar.ref.palette.neutral-variant30}"
   },
-  "md.sys.color.on-surface": {
+  "cbar.sys.color.on-surface": {
     "description": "On surface",
-    "value": "{md.ref.palette.neutral10}"
+    "value": "{cbar.ref.palette.neutral10}"
   },
-  "md.sys.color.surface-variant": {
+  "cbar.sys.color.surface-variant": {
     "description": "Surface Variant",
-    "value": "{md.ref.palette.neutral-variant90}"
+    "value": "{cbar.ref.palette.neutral-variant90}"
   },
-  "md.sys.color.surface": {
+  "cbar.sys.color.surface": {
     "description": "Surface",
-    "value": "{md.ref.palette.neutral99}"
+    "value": "{cbar.ref.palette.neutral99}"
   },
-  "md.sys.color.on-secondary-container": {
+  "cbar.sys.color.on-secondary-container": {
     "description": "On secondary container",
-    "value": "{md.ref.palette.secondary10}"
+    "value": "{cbar.ref.palette.secondary10}"
   },
-  "md.sys.color.on-secondary": {
+  "cbar.sys.color.on-secondary": {
     "description": "On secondary",
-    "value": "{md.ref.palette.secondary100}"
+    "value": "{cbar.ref.palette.secondary100}"
   },
-  "md.sys.color.secondary-container": {
+  "cbar.sys.color.secondary-container": {
     "description": "Secondary container",
-    "value": "{md.ref.palette.secondary90}"
+    "value": "{cbar.ref.palette.secondary90}"
   },
-  "md.sys.color.secondary": {
+  "cbar.sys.color.secondary": {
     "description": "Secondary",
-    "value": "{md.ref.palette.secondary40}"
+    "value": "{cbar.ref.palette.secondary40}"
   },
-  "md.sys.color.inverse-primary": {
+  "cbar.sys.color.inverse-primary": {
     "description": "Inverse primary",
-    "value": "{md.ref.palette.primary80}"
+    "value": "{cbar.ref.palette.primary80}"
   },
-  "md.sys.color.on-primary-container": {
+  "cbar.sys.color.on-primary-container": {
     "description": "On primary container",
-    "value": "{md.ref.palette.primary10}"
+    "value": "{cbar.ref.palette.primary10}"
   },
-  "md.sys.color.on-primary": {
+  "cbar.sys.color.on-primary": {
     "description": "On primary",
-    "value": "{md.ref.palette.primary100}"
+    "value": "{cbar.ref.palette.primary100}"
   },
-  "md.sys.color.primary-container": {
+  "cbar.sys.color.primary-container": {
     "description": "Primary container",
-    "value": "{md.ref.palette.primary90}"
+    "value": "{cbar.ref.palette.primary90}"
   },
-  "md.sys.color.primary": {
+  "cbar.sys.color.primary": {
     "description": "Primary",
-    "value": "{md.ref.palette.primary40}"
+    "value": "{cbar.ref.palette.primary40}"
   }
 }

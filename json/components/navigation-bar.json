@@ -1,5 +1,5 @@
 {
-  "md.comp.navigation-bar.large-badge.shape": {
+  "cbar.comp.navigation-bar.large-badge.shape": {
     "type": "shape",
     "description": "Shape",
     "value": {
@@ -7,11 +7,11 @@
       "method": "round"
     }
   },
-  "md.comp.navigation-bar.large-badge.size": {
+  "cbar.comp.navigation-bar.large-badge.size": {
     "description": "Size",
     "value": "16px"
   },
-  "md.comp.navigation-bar.badge.shape": {
+  "cbar.comp.navigation-bar.badge.shape": {
     "type": "shape",
     "description": "Shape",
     "value": {
@@ -19,68 +19,68 @@
       "method": "round"
     }
   },
-  "md.comp.navigation-bar.badge.size": {
+  "cbar.comp.navigation-bar.badge.size": {
     "description": "Size",
     "value": "6px"
   },
-  "md.comp.navigation-bar.pressed.state-layer.opacity": {
+  "cbar.comp.navigation-bar.pressed.state-layer.opacity": {
     "description": "Opacity",
-    "value": "{md.sys.state.pressed.state-layer-opacity}"
+    "value": "{cbar.sys.state.pressed.state-layer-opacity}"
   },
-  "md.comp.navigation-bar.focus.state-layer.opacity": {
+  "cbar.comp.navigation-bar.focus.state-layer.opacity": {
     "description": "Opacity",
-    "value": "{md.sys.state.focus.state-layer-opacity}"
+    "value": "{cbar.sys.state.focus.state-layer-opacity}"
   },
-  "md.comp.navigation-bar.hover.state-layer.opacity": {
+  "cbar.comp.navigation-bar.hover.state-layer.opacity": {
     "description": "Opacity",
-    "value": "{md.sys.state.hover.state-layer-opacity}"
+    "value": "{cbar.sys.state.hover.state-layer-opacity}"
   },
-  "md.comp.navigation-bar.active-indicator.shape": {
+  "cbar.comp.navigation-bar.active-indicator.shape": {
     "description": "Shape",
-    "value": "{md.sys.shape.corner.full}"
+    "value": "{cbar.sys.shape.corner.full}"
   },
-  "md.comp.navigation-bar.active-indicator.width": {
+  "cbar.comp.navigation-bar.active-indicator.width": {
     "description": "Width",
     "value": "64px"
   },
-  "md.comp.navigation-bar.active-indicator.height": {
+  "cbar.comp.navigation-bar.active-indicator.height": {
     "description": "Height",
     "value": "32px"
   },
-  "md.comp.navigation-bar.label-text.tracking": {
+  "cbar.comp.navigation-bar.label-text.tracking": {
     "description": "Tracking",
-    "value": "{md.sys.typescale.label-medium.tracking}"
+    "value": "{cbar.sys.typescale.label-medium.tracking}"
   },
-  "md.comp.navigation-bar.label-text.weight": {
+  "cbar.comp.navigation-bar.label-text.weight": {
     "description": "Weight",
-    "value": "{md.sys.typescale.label-medium.weight}"
+    "value": "{cbar.sys.typescale.label-medium.weight}"
   },
-  "md.comp.navigation-bar.label-text.size": {
+  "cbar.comp.navigation-bar.label-text.size": {
     "description": "Size",
-    "value": "{md.sys.typescale.label-medium.size}"
+    "value": "{cbar.sys.typescale.label-medium.size}"
   },
-  "md.comp.navigation-bar.label-text.line-height": {
+  "cbar.comp.navigation-bar.label-text.line-height": {
     "description": "Line height",
-    "value": "{md.sys.typescale.label-medium.line-height}"
+    "value": "{cbar.sys.typescale.label-medium.line-height}"
   },
-  "md.comp.navigation-bar.label-text.font": {
+  "cbar.comp.navigation-bar.label-text.font": {
     "description": "Font",
-    "value": "{md.sys.typescale.label-medium.font}"
+    "value": "{cbar.sys.typescale.label-medium.font}"
   },
-  "md.comp.navigation-bar.icon.size": {
+  "cbar.comp.navigation-bar.icon.size": {
     "description": "Size",
     "value": "24px"
   },
-  "md.comp.navigation-bar.container.elevation": {
+  "cbar.comp.navigation-bar.container.elevation": {
     "description": "Elevation",
-    "value": "{md.sys.elevation.level2}"
+    "value": "{cbar.sys.elevation.level2}"
   },
-  "md.comp.navigation-bar.container.height": {
+  "cbar.comp.navigation-bar.container.height": {
     "description": "Height",
     "value": "80px"
   },
-  "md.comp.navigation-bar.container.shape": {
+  "cbar.comp.navigation-bar.container.shape": {
     "description": "Shape",
-    "value": "{md.sys.shape.corner.none}"
+    "value": "{cbar.sys.shape.corner.none}"
   }
 }

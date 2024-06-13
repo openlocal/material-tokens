@@ -3,10 +3,10 @@
   "last_updated_by": "",
   "last_updated": "2022-03-30T17:34:16.000Z",
   "settings": {
-    "name": "Material",
+    "name": "Community BuildAR",
     "package_version": "0.93",
     "build_tool": "StyleDictionary",
-    "snippet_trigger_prefix": "md_",
+    "snippet_trigger_prefix": "cbar_",
     "build_status_label": "dev",
     "build_params": "./config.js",
     "languages": [

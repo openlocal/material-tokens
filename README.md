@@ -1,6 +1,11 @@
-# Material Tokens
+# CBAR Design Tokens
 
-Material Design now supports the [Design System Package (DSP)](https://github.com/AdobeXD/design-system-package-dsp) for importing and exporting [Material Design Tokens](http://m3.material.io/foundations/design-tokens/overview) within the [Material Theme Builder](http://material.io/material-theme-builder). DSP can be used in designer and developer workflow tools and Material Component libraries. Let’s dive into how you can use Material Tokens (DSP) within the [VSCode extension](https://marketplace.visualstudio.com/items?itemName=Adobe.xd) to generate code.
+Community BuildAR supports the [Design System Package (DSP)](https://github.com/AdobeXD/design-system-package-dsp) for importing and exporting CBAR Design Tokens, currently based on the [Material Design Tokens](http://m3.material.io/foundations/design-tokens/overview). DSP can be used in designer and developer workflow tools. 
+
+Unfortunately the DSP doesn't currently cover the full design system, so take a look under the css directory for a theme that has the broader list of css variables that can be used in a web environment.
+
+That being said, let’s dive into how you can use CBAR Design Tokens (DSP) within the [VSCode extension](https://marketplace.visualstudio.com/items?itemName=Adobe.xd) to generate code.
+
 
 ## Getting Started
 
@@ -18,13 +23,14 @@ Click on install and you may have to reopen or reload VSCode. After the extensio
 
 ![alt_text](/assets/image13.png)
 
+
 After the plugin opens it should look like the following screenshot.
 
 ![alt_text](/assets/image2.png)
 
 ## Opening a DSP
 
-Download a customized DSP from the [Material Theme Builder](http://material.io/material-theme-builder) or default Material Theme values from [this repo](https://goo.gle/material-tokens) and save it to your computer.
+Download default CBAR Theme values from [this repo](https://code.communitybuildar.com/community-buildar/cbar-design-tokens) and save it to your computer.
 
 Open up the folder in VSCode by either dragging it onto the open window or selecting “Open Folder”.
 
@@ -34,13 +40,15 @@ Open the Adobe XD plugin and select “Edit Package” on the bottom left, then 
 
 ![alt_text](/assets/image5.png)
 
+
 ## Exploring the DSP
 
 With the DSP opened in the plugin you should see the following screenshot.
 
 ![alt_text](/assets/image10.png)
 
-The Material Tokens (DSP) is made up of a few sections (Light, Dark, Default, Palette, Typography).
+
+The CBAR Design Tokens (DSP) is made up of a few sections (Light, Dark, Default, Palette, Typography).
 
 ## Generating Code
 
@@ -50,13 +58,16 @@ Select “Start Editing” and then “Finish Editing” to trigger code generat
 
 ![alt_text](/assets/image1.png)
 
+
 Select “Install” then you will see another notification asking to export tokens.
 
 ![alt_text](/assets/image8.png)
 
+
 Select “Export tokens” then you will see a notification asking you to open the folder.
 
 ![alt_text](/assets/image3.png)
+
 
 Opening the folder you will see the following sub directories.
 
@@ -66,12 +77,17 @@ This directory is located in the current directory under a newly generated folde
 
 ![alt_text](/assets/image4.png)
 
+
 Opening up the “variables.css” for example you will see the following flat list of tokens used to theme your application.
 
 ![alt_text](/assets/image6.png)
+
 
 The “android/colors.xml” should look similar.
 
 ![alt_text](/assets/image12.png)
 
-Using the Material Tokens (DSP) will ensure your styles are shared throughout your designer and developer workflow. Learn more about [Material Design Tokens](http://m3.material.io/foundations/design-tokens/overview).
+
+Using the CBAR Design Tokens (DSP) will ensure your styles are shared throughout your designer and developer workflow. 
+
+Learn more about the [Material Design Tokens](http://m3.material.io/foundations/design-tokens/overview) that we used as our base.
